@@ -1,0 +1,254 @@
+{
+    "wordpool(simple)":
+    {
+        "concept": "an abstract idea",
+        "classroom": "a room in which a class of students is taught",
+        "strategy": "a plan of action desgined to achieve an overall aim",
+        "movie": "a cinema film",
+        "gate":"a hinged barrier used to close an opening in a wall, fence or hedge",
+        "king":"the male ruler of an independent state",
+        "recipe":"a set of instructions for preparing a particular dish",
+        "charity":"an organization set up to provide help and raise money for those in need",
+        "insect":"a small arthropod animal that has six legs",
+        "funeral":"a ceremoney held shortly after a person's death",
+        "chapter":"a main division of a book, typically with a number or title",
+        "birthday":"the anniversary of the day on which a person was born",
+        "shirt":"a garment made of fabric for the upper body",
+        "police":"the civil force of a state, responsible for the prevention and detection of crime",
+        "river":"a large natural stream of water flowing in a channel",
+        "alcohol":"a colourless liquid produced by the natural fermentation of sugars",
+        "football":"any form of team game involving kicking a soccer ball or American football",
+        "language":"a system of communication used by a particular community",
+        "professor":"a university academic of the highest rank",
+        "attitude":"a settled way of thinking or feeling about something",
+        "newspaper":"a printed publication consisting of sheets containing articles and advertisements"
+    },
+
+    "wordpool(complex)":
+    {
+        "substitute": "a person or thing acting or serving in place of another",
+        "agriculture": "the science or practice of farming",
+        "opposition": "resistance or dissent, expressed in action or argument",
+        "compartment": "a separate section or part of a structure or container",
+        "foundation": "the lowest load-bearing part of a building, typically below ground level",
+        "projection": "an estimate or forecast of a future situation based on a study of present trends",
+        "motorcycle": "a two-wheeled vehicle that is powered by a motor and has no pedals",
+        "population": "all the inhabitants of a particular place",
+        "relaxation": "the state of being free from tension and anxiety",
+        "possibility": "a thing that may happen or be the case",
+        "intelligence": "the ability to acquire and apply knowledge and skills",
+        "articulate": "having or showing the ability to speak fluently and coherently",
+        "conservative": "averse to change or innovation and holding traditional values",
+        "performance": "an act of presenting a play, concert, or other form of entertainment",
+        "manufacture": "make (something) on a large scale using machinery",
+        "embarrassment": "a feeling of self-consciousness, shame, or awkwardness",
+        "transition": "the process or a period of changing from one state or condition to another",
+        "wilderness": "an uncultivated, uninhabited, and inhospitable region",
+        "thoughtful": "absorbed in or involving thought",
+        "negligence": "failure to take proper care over something.",
+        "nomination": "the action of nominating or state of being nominated"
+    },
+
+    "wordpool(simpleidioms)":
+    {
+        "hard pill to swallow": "somthing that is difficult to accept",
+        "under your nose": "something obvious yet unnoticed",
+        "crying over spilt milk": "it is useless to worry about things that have already happened",
+        "a drowning man will clutch a straw": "when someone is in a difficult situation, they will take any available opportunity to come out of it.",
+        "once in a blue moon": "something that is highly unlikely to happen",
+        "blood is thicker than water": "familial relationships are stronger than other relationships",
+        "close but no cigar": "coming close to a successful outcome only to fall short at the end",
+        "a diamond in the rough": "used to describe someone or something with hidden potential",
+        "raining cats and dogs": "a heavy downpour",
+        "wild goose chase": "pursuing something that will never be attainable",
+        "fit as a fiddle": "being in perfect health",
+        "curiosity killed the cat": "indicating that further investigation into a situation may lead to harm",
+        "on cloud nine": "having strong feelings of happiness or satisfaction",
+        "back to square one": "going back to the beginning",
+        "elephant in the room": "an obvious problem that is not being addressed",
+        "absence makes the heart grow fonder" : "when we are away from our loved ones, we long for their company even more",
+        "needle in a haystack": "something extremely difficult to find",
+        "barking up the wrong tree": "to make a wrong assumption about something",
+        "mountain out of a molehill": "escalating a small issue into a big problem",
+        "down to earth": "used to describe someone who is practical and humble",
+        "a cut above the rest": "used to describe something superior to its counterparts"
+    },
+    
+    "wordpool(complexidioms)":
+    {
+        "an ounce of protection is worth a pound of cure": "a little precaution is better than having to solve a crisis",
+        "a ship in the harbor is safe but is not what a ship is for": "it is important to get out of one's comfort zone",
+        "hope for the best but prepare for the worst": "be optimistic, but be ready for a scenario where things go wrong",
+        "if you play with fire you will get burned": "doing something dangerous can lead to harm",
+        "never test the depth of water with both feet": "assess the risk well before you fully commit to something",
+        "one man's trash is another man's treasure": "the male ruler of an independent state",
+        "the highest branch is not the safest roost": "those in high positions may be vulnerable as many aspire to replace them",
+        "the nail that sticks out gets hammered down": "deviating from the norm can cause you to face resistance",
+        "the only free cheese is in the mousetrap": "beware of free offers as they are often attached with consequences",
+        "when in rome do as the romans do": "when visiting a foreign area, follow the local customs",
+        "while the cat is away, the mice will play": "without supervision, people will break rules",
+        "you can lead a horse to water, but you can't make it drink": "you can show people the way, but can't force them to act",
+        "it takes a whole village to raise a child": "it takes many people to nurture a child",
+        "turn towards to sun and the shadows fall behind you": "as we look towards brighter things, darkness recedes",
+        "hunger is felt by a slave and hunger is felt by a king": "no matter the status, human beings are still alike",
+        "cheese wine and friends must be old to be good": "friendships becoming stronger over time",
+        "even from a foe a man may learn wisdom": "difficult challenges can teach us important lessons",
+        "a journey of a thousand miles begins with a single step": "it is necessary to take the first step to reach your goal",
+        "the grass is always greener on the other side": "other people will always seem to be in a better situation",
+        "beauty is in the eye of the beholder": "the perception of beauty varies from person to person",
+        "don't put all your eggs in one basket": "don't risk everything on a single venture"
+    },
+
+    "settings":
+    {
+        "number of attempts": 3,
+        "number of words": 3,
+        "number of top players": 4
+    },
+
+    "game_logs":
+    {
+        "167126984": {
+            "Start Date": "16-12-2022 08:44",
+            "End Date": "16-12-2022 08:52",
+            "Player": "david",
+            "Score": 22,
+            "Difficulty": "Simple Words"
+        },
+        "1671191805": {
+            "Start Date": "16-12-2022 11:56",
+            "End Date": "16-12-2022 12:03",
+            "Player": "martinez",
+            "Score": 26,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671271005": {
+            "Start Date": "17-12-2022 09:56",
+            "End Date": "17-12-2022 10:03",
+            "Player": "astrid",
+            "Score": 26,
+            "Difficulty": "Complex Words"
+        },
+        "1671368484": {
+            "Start Date": "18-12-2022 13:01",
+            "End Date": "18-12-2022 13:08",
+            "Player": "graham",
+            "Score": 28,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671368542": {
+            "Start Date": "18-12-2022 13:02",
+            "End Date": "18-12-2022 13:11",
+            "Player": "andrew",
+            "Score": 22,
+            "Difficulty": "Simple Words"
+        },
+        "1671368559": {
+            "Start Date": "18-12-2022 13:02",
+            "End Date": "18-12-2022 13:14",
+            "Player": "klein",
+            "Score": 22,
+            "Difficulty": "Complex Words"
+        },
+        "1671368916": {
+            "Start Date": "18-12-2022 13:08",
+            "End Date": "18-12-2022 13:09",
+            "Player": "peter",
+            "Score": 0,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671378216": {
+            "Start Date": "18-12-2022 15:43",
+            "End Date": "18-12-2022 15:53",
+            "Player": "paul",
+            "Score": 30,
+            "Difficulty": "Complex Idioms"
+        },
+        "1671378807": {
+            "Start Date": "18-12-2022 15:53",
+            "End Date": "18-12-2022 16:01",
+            "Player": "mary",
+            "Score": 30,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671389362": {
+            "Start Date": "19-12-2022 18:49",
+            "End Date": "19-12-2022 18:56",
+            "Player": "andrew",
+            "Score": 24,
+            "Difficulty": "Complex Words"
+        },
+        "1671389526": {
+            "Start Date": "19-12-2022 18:52",
+            "End Date": "19-12-2022 18:59",
+            "Player": "holden",
+            "Score": 0,
+            "Difficulty": "Simple Words"
+        },
+        "1671460649": {
+            "Start Date": "19-12-2022 22:37",
+            "End Date": "19-12-2022 22:37",
+            "Player": "merlion",
+            "Score": 26,
+            "Difficulty": "Simple Words"
+        },
+        "1671461500": {
+            "Start Date": "19-12-2022 22:51",
+            "End Date": "19-12-2022 22:56",
+            "Player": "malachite",
+            "Score": 20,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671521772": {
+            "Start Date": "20-12-2022 15:35",
+            "End Date": "20-12-2022 15:36",
+            "Player": "qwert",
+            "Score": 18,
+            "Difficulty": "Simple Words"
+        },
+        "1671770138": {
+            "Start Date": "23-12-2022 12:17",
+            "End Date": "23-12-2022 12:35",
+            "Player": "p",
+            "Score": 26,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671770237": {
+            "Start Date": "23-12-2022 12:35",
+            "End Date": "23-12-2022 12:37",
+            "Player": "p",
+            "Score": 0,
+            "Difficulty": "Simple Idioms"
+        },
+        "1671770295": {
+            "Start Date": "23-12-2022 12:37",
+            "End Date": "23-12-2022 12:38",
+            "Player": "k",
+            "Score": 0,
+            "Difficulty": "Complex Words"
+        },
+        "1671770883": {
+            "Start Date": "23-12-2022 12:47",
+            "End Date": "23-12-2022 12:48",
+            "Player": "s",
+            "Score": 8,
+            "Difficulty": "Complex Words"
+        },
+        "1671771345": {
+            "Start Date": "23-12-2022 12:54",
+            "End Date": "23-12-2022 12:55",
+            "Player": "h",
+            "Score": 0,
+            "Difficulty": "Complex Words"
+        },
+        "1672022070": {
+            "Start Date": "26-12-2022 10:32",
+            "End Date": "26-12-2022 10:34",
+            "Player": "opop",
+            "Score": 10,
+            "Difficulty": "Simple Idioms"
+        }
+    },
+
+    "adminpassword":"qQ1@"
+}
